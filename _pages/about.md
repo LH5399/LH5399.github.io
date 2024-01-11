@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "LH"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+A friend of mine always asks me, what do you do and so does my grandmum every time I visit her. They can look up my LinkedIn Account or a Company Webpage, but we all have more to offer than our current profession or the university from which we got our degree.
+As of writing this, I am currently 24 and pursuing my Master's at HSG. I'm doing the MacFin (Master in Accounting and Finance) + a new Fintech Certificate Program. Jobwise I am a Junior Consultant at Prophet (or call Working Student if you want to :D). We do Strategy Consulting and I enjoy working with diverse companies and clients in the DACH industry. Over the years I developed a preference for the construction industry. I feel like you can make a very big influence in this industry because it has to evolve to meet the world of the future. Furthermore, my grandfather, who passed away before I was born, also worked in the construction industry for his entire life. When I told my father, that I developed a preference for this industry, his eyes lit up in a way that I will never forget. This fact motivates me often when i finish my work or some university assignment.  
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+If you enjoy the content I share here, I would be happy to get some feedback. My current plans are some of the following for this page
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+
 
 Thanks for reading!
