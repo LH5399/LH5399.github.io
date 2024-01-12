@@ -81,9 +81,9 @@ Check out tale on [GitHub](https://github.com/chesterhow/tale).
 _This is an image with a caption_
 {% endhighlight %}
 
-![Placeholder image]([https://drive.google.com/file/d/1rStXBfknnNzcImB99oBXWXy7sJI0Gaft/view?usp=drive_link] "Test") "Placeholder image")
+![Placeholder image](images/TechClub_Linkedin_Profilbild_1000x1000px.jpg) "Placeholder image")
 
-![Image with caption](https://placehold.it/700x400](https://drive.google.com/file/d/1rStXBfknnNzcImB99oBXWXy7sJI0Gaft/view?usp=drive_link "Image with caption")
+![Image with caption](images/TechClub_Linkedin_Profilbild_1000x1000px.jpg "Image with caption")
 _This is an image with a caption_
 
 # Code and Syntax Highlighting
