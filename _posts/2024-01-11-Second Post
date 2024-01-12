@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Example Content"
-author: "Chester"
-tags: Example
+title: "Some thoughts for the 2nd day"
+author: "LH"
+tags: Streak
 excerpt_separator: <!--more-->
 ---
 
@@ -74,7 +74,7 @@ Check out tale on [GitHub](https://github.com/chesterhow/tale).
 
 # Images
 {% highlight markdown %}
-![Placeholder image](https://placehold.it/800x400 "Placeholder image")
+![Placeholder image](https://drive.google.com/file/d/1rStXBfknnNzcImB99oBXWXy7sJI0Gaft/view?usp=drive_link "Placeholder image")
 
 ![Image with caption](https://placehold.it/700x400 "Image with caption")
 _This is an image with a caption_
