@@ -6,7 +6,8 @@ tags: Streak
 excerpt_separator: <!--more-->
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt ornare nibh, non elementum augue tempus eget. Pellentesque tempus scelerisque iaculis.<!--more--> Nullam interdum ultricies nibh quis sollicitudin. Donec ornare fermentum facilisis. Ut at sem ac sem imperdiet varius a eget tortor. Nam eu augue eget orci semper maximus in eget augue. Mauris ornare, nisl ut suscipit consectetur, mi quam interdum tellus, at rutrum quam eros ultrices mi.
+Hi this is the second post. There wont be too much detail, but i want to keep up with this website and "force" myself to write something to document this learning.
+Today im showcasing one project i did with a university club. 
 
 # Headers
 {% highlight markdown %}
