@@ -6,7 +6,7 @@ tags: Streak
 excerpt_separator: <!--more-->
 ---
 
-Hi this is the second post. There wont be too much detail, but i want to keep up with this website and "force" myself to write something to document this learning.
+Hi this is the second post. There wont be too much detail, but i want to keep up with this website and "force" myself to write something to document this learning.<!--more-->
 Today im showcasing one project i did with a university club. 
 
 # Headers
