@@ -81,7 +81,8 @@ Check out tale on [GitHub](https://github.com/chesterhow/tale).
 _This is an image with a caption_
 {% endhighlight %}
 
-![Placeholder image](https://raw.githubusercontent.com/LH5399/LH5399.github.io/b3326b4a36b8b69c155aa8221b3c54dc8e777744/images/TechClub_Linkedin_Profilbild_1000x1000px.jpg)
+![Placeholder image](https://raw.githubusercontent.com/LH5399/LH5399.github.io/b3326b4a36b8b69c155aa8221b3c54dc8e777744/images/TechClub_Linkedin_Profilbild_1000x1000px.jpg "Tech Club Logo")
+_Tech Club Logo_
 
 ![Image with caption](images/TechClub_Linkedin_Profilbild_1000x1000px.jpg "Image with caption")
 _This is an image with a caption_
