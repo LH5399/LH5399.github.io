@@ -45,12 +45,26 @@ The OpenAI API key used in this project is funded with minimal credit and for de
 
 ---
 
+## Setup (should run by itself normally with the code only :) )
+
+- **Clone the repository**
+
+git clone https://github.com/yourusername/mood-tracker.git
+cd mood-tracker
+
+- **Install required packages**
+pip install textblob openai pandas matplotlib seaborn
+
+- **Run the application**
+python mood_tracker.py
+
+---
 ## Common Issues and Solutions
 
 ### Missing Data Directory
 
-- **Error:**
-
+- **Error:** 
+FileNotFoundError: [Errno 2] No such file or directory: 'data/mood_data.csv'
 
 - **Solution:**  
 The application will automatically create the `data` directory and `mood_data.csv` file on first run. If it fails, manually create a `data` folder in the project directory.
@@ -127,25 +141,6 @@ Controls the main application flow.
 
 ---
 
-## Contributing
-
-Feel free to submit issues and enhancement requests!
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Acknowledgments
-
-- **OpenAI** for providing the GPT API.
-- **TextBlob** for sentiment analysis capabilities.
-- The **Python data science community** for excellent visualization libraries.
-
----
 
 **Note:** This project is intended for educational purposes and should not be used as a substitute for professional mental health support.
 
