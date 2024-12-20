@@ -1,5 +1,6 @@
 # Personal Mood Tracker
 
+![giphy (1)](https://github.com/user-attachments/assets/d30ccf85-7a21-48eb-8226-561d14f7c1ec)
 
 
 **Course:** Skills: Programming with Advanced Computer Languages  
