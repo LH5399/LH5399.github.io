@@ -8,10 +8,10 @@
 
 ## Motivation
 
-I developed this **Personal Mood Tracker** as part of my coursework to create a tool that helps people monitor and understand their emotional well-being. Having experienced the benefits of mood tracking myself, I wanted to build an application that not only records moods but also provides insights and patterns through data visualization. The integration of AI-powered suggestions adds a supportive element to help users maintain positive mental health.
+I developed this **Personal Mood Tracker** as my project to create a tool that helps people monitor and understand their emotional well-being. Having experienced the benefits of mood tracking myself, I wanted to build an application that not only records moods but also provides insights and patterns through data visualization. The integration of AI-powered suggestions adds a supportive element to help users maintain positive mental health.
 
 **Note on API Key:**  
-The OpenAI API key used in this project is funded with minimal credit and for demonstration purposes only. I am aware of the security risks and have implemented appropriate safeguards. Users should not attempt to exploit the API access as it is strictly limited and monitored.
+The OpenAI API key used in this project is funded with minimal credit and for demonstration purposes only. I am aware of the security risks and have implemented appropriate safeguards.
 
 ---
 
@@ -53,9 +53,11 @@ git clone https://github.com/yourusername/mood-tracker.git
 cd mood-tracker
 
 - **Install required packages**
+
 pip install textblob openai pandas matplotlib seaborn
 
 - **Run the application**
+
 python mood_tracker.py
 
 ---
