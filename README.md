@@ -1,6 +1,6 @@
 # Personal Mood Tracker
 
-<iframe src="https://giphy.com/embed/BmfHlDpPWJy899dy62" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sheepworld-de-sun-sonne-sonnenschein-BmfHlDpPWJy899dy62">via GIPHY</a></p>
+
 
 **Course:** Skills: Programming with Advanced Computer Languages  
 **Semester:** Fall 2024  
