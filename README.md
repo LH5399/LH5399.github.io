@@ -49,16 +49,10 @@ The OpenAI API key used in this project is funded with minimal credit and for de
 
 - **Clone the repository**
 
-git clone https://github.com/yourusername/mood-tracker.git
-cd mood-tracker
-
 - **Install required packages**
-
-pip install textblob openai pandas matplotlib seaborn
 
 - **Run the application**
 
-python mood_tracker.py
 
 ---
 ## Common Issues and Solutions
@@ -85,7 +79,7 @@ Delete the existing `mood_data.csv` file and restart the application. It will cr
 `InvalidRequestError` or other API-related errors.
 
 - **Solution:**  
-Verify your API key and internet connection. The application will continue to function without AI suggestions if the API is unavailable.
+This shouldn't happen unless my special account is not funded anymore. I gave it more than enough (over 1500 requests). Please contact me otherwise or use own API key (execution costs below 1c)
 
 ---
 
@@ -143,6 +137,4 @@ Controls the main application flow.
 
 ---
 
-
-**Note:** This project is intended for educational purposes and should not be used as a substitute for professional mental health support.
 
